@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"importFromFile:" : "DS 6/28/2015 23:51" },
+	"instance" : {
+		"at:" : "DS 6/29/2015 06:13",
+		"cheeseCoordinates" : "DS 6/29/2015 06:18",
+		"cheeseCoordinates:" : "DS 6/29/2015 06:18",
+		"fields" : "DS 6/28/2015 23:45",
+		"fields:" : "DS 6/28/2015 23:45",
+		"getField:withCoordinates:" : "DS 6/28/2015 11:50",
+		"getLineLength:" : "DS 6/28/2015 10:04",
+		"import:" : "DS 6/29/2015 06:17",
+		"initialized" : "DS 6/29/2015 07:40",
+		"mice" : "DS 6/28/2015 23:45",
+		"mice:" : "DS 6/28/2015 23:45",
+		"resetWind" : "DS 6/29/2015 07:48",
+		"running" : "DS 6/29/2015 07:23",
+		"running:" : "DS 6/29/2015 07:23",
+		"sendGust:" : "DS 6/29/2015 07:57" } }

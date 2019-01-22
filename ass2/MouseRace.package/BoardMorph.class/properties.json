@@ -1,0 +1,17 @@
+{
+	"category" : "MouseRace-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DS 6/29/2015 02:55",
+	"instvars" : [
+		"board",
+		"algo",
+		"fields",
+		"mice" ],
+	"name" : "BoardMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

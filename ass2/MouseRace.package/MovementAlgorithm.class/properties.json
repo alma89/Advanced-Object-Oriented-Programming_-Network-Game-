@@ -1,0 +1,14 @@
+{
+	"category" : "MouseRace-Main",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DS 6/28/2015 23:25",
+	"instvars" : [
+		"board" ],
+	"name" : "MovementAlgorithm",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

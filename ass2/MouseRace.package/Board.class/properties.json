@@ -1,0 +1,18 @@
+{
+	"category" : "MouseRace-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DS 6/29/2015 07:46",
+	"instvars" : [
+		"wind",
+		"fields",
+		"mice",
+		"cheeseCoordinates",
+		"running" ],
+	"name" : "Board",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
