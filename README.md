@@ -13,7 +13,7 @@ IDE: Eclipse
 
 Team work - group of 3 people
 
-Responsibilities: pair programming in Java and Eiffel part of the assingment with alma89, mentor: dseebacher
+Responsibilities: pair programming in Java and Eiffel part of the assingment with andzaOs, mentor: dseebacher
 
 # Task Description
 
